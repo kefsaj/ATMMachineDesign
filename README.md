@@ -1,4 +1,4 @@
-# ATMMachineDesign
+# Automated Teller Machine Design
 
 ## Introduction
 Montana Savings Bank has recently been recommended the use of Automated Teller Machines to cut costs, eliminate errors, and provide a 24-hour service to its customers. The bank, and their consulting company have drafted a set of requirements they need to be programmed into their ATM. Our team was given was given the requirements and was told exactly what needed to be done but was also given some freedom to add features that would make the ATM better for the bank and for the customer. 
